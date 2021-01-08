@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="mAbout">About</string>
+    <string name="mSettings">Settings</string>
+    <string name="delete">eliminar</string>
+    <string name="edit">editar</string>
+    <string name="nombre_persona">Jordi Olivares</string>
+    <string name="menu_view">ver</string>
+    <string name="menu_detalles">detalles</string>
+</resources>
