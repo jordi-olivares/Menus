@@ -45,6 +45,9 @@ public class MainActivity extends AppCompatActivity {
                 Intent i2=new Intent(this,ActivitySettings.class);
                 startActivity(i2);
                 break;
+            case R.id.refesh:
+                Toast.makeText(MainActivity.this, "refresh", Toast.LENGTH_SHORT).show();
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
